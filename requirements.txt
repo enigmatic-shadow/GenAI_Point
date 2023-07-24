@@ -1,0 +1,16 @@
+openai
+python-pptx
+langchain
+google-search-results
+tiktoken
+embedchain==0.0.24
+qrcode
+diffusers
+xformers
+torch 
+transformers 
+accelerate
+gradio
+Pillow
+requests
+pandas
