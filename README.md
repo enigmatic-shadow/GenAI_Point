@@ -1,4 +1,4 @@
-# Gen AI Point
+# Power AI Point
 ### - Ignite Your PPTs with Genai
 
 Welcome to our remarkable application, where the enchanting prowess of generative AI intertwines with your creativity, granting you a captivating experience in effortlessly crafting mesmerizing presentations. Unleash the mystical might of this AI-driven wizardry as it weaves a tapestry of enchanting slides, making the art of creating captivating PPTs an absolute delight for you!
